@@ -1,0 +1,12 @@
+.navbar{
+  background-color: rgba(35, 40, 75, 0.500);
+}
+
+.nav-link {
+    color: aliceblue;
+}
+
+a.nav-link :hover{
+  background-color: aquamarine;
+  color: red
+}
